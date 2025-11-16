@@ -9,11 +9,11 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 MCA graduate with strong programming skills (CGPA 8.7)
-- 💻 Passionate about building responsive, secure, and high-performance web apps
-- 🌱 Always learning advanced **React**, **Node.js**, and **MERN stack projects**
-- 🏆 Completed **Delta Full Stack Web Development Course** by Apna College
-- 🚀 Open to collaboration on full-stack projects and internships
+- 🎓 **MCA graduate** with strong programming and problem-solving skills (CGPA 8.7)  
+- 💻 Passionate about building **responsive, secure, and high-performance web applications**  
+- 🌱 Continuously learning advanced technologies in **React.js, Node.js, and the MERN stack**  
+- 🚀 **Actively seeking job opportunities** in Full-Stack or MERN Stack development  
+- 🤝 Open to **collaboration, freelance projects, and internships**
 
 ---
 
