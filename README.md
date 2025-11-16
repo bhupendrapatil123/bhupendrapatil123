@@ -1,23 +1,25 @@
-# Hi, I'm Bhupendra Patil 👋
+# 👋 Hi, I'm Bhupendra Patil
 
 ### Full Stack Developer | MERN Stack | React.js | Node.js | MongoDB
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patil-bhupendra)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupendrarajput1232@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhupendra-portfolio-cyan.vercel.app/)
 
+![Developer GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
+
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 - 🎓 MCA graduate with strong programming skills (CGPA 8.7)
 - 💻 Passionate about building responsive, secure, and high-performance web apps
-- 🌱 Currently exploring advanced **React**, **Node.js**, and **MERN stack projects**
+- 🌱 Always learning advanced **React**, **Node.js**, and **MERN stack projects**
 - 🏆 Completed **Delta Full Stack Web Development Course** by Apna College
-- 📚 Always learning and improving my development skills
+- 🚀 Open to collaboration on full-stack projects and internships
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Radar
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -36,34 +38,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 💼 Projects
-
-### Stock Trading Platform
-[Live Demo](https://stock-trading-platform-puce.vercel.app) | [GitHub Repo](https://github.com/your-username/stock-trading-platform)
-- Manage holdings, orders, watchlist, and funds
-- Full-stack MERN app with React, Node.js, Express, MongoDB
-
-### Bookstore Web Application
-[Live Demo](https://book-store-camp.vercel.app) | [GitHub Repo](https://github.com/your-username/bookstore-web-app)
-- User authentication with Google
-- Admin dashboard with order management and category filters
-
-### Wanderlust Travel App
-[Live Demo](https://wanderlust.vercel.app) | [GitHub Repo](https://github.com/your-username/wanderlust)
-- Travel listings with booking functionality
-- Built with Node.js, Express, MongoDB, and EJS
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?bhupendrapatil123=your-bhupendrapatil123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?bhupendrapatil123=your-bhupendrapatil123layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact Me
-- Email: bhupendrarajput1232@gmail.com 
-- LinkedIn: [[https://linkedin.com/in/your-link](https://www.linkedin.com/in/patil-bhupendra)]
+- Email: bhupendrarajput1232@gmail.com  
+- LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
 - Portfolio: [https://bhupendra-portfolio-cyan.vercel.app](https://bhupendra-portfolio-cyan.vercel.app)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
