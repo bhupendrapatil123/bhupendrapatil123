@@ -43,8 +43,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?bhupendrapatil123=your-bhupendrapatil123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?bhupendrapatil123=your-bhupendrapatil123layout=compact&theme=radical)
+![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?bhupendrapatil123=bhupendrapatil123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?bhupendrapatil123=bhupendrapatil123layout=compact&theme=radical)
 
 ---
 
