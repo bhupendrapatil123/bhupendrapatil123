@@ -48,7 +48,7 @@
 
 ## 📫 Contact Me
 - Email: bhupendrarajput1232@gmail.com  
-- LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/patil-bhupendra)  
+- LinkedIn: [https://linkedin.com/in/patil-bhupendra](https://linkedin.com/in/patil-bhupendra)  
 - Portfolio: [https://bhupendra-portfolio-cyan.vercel.app](https://bhupendra-portfolio-cyan.vercel.app)
 
 ---
