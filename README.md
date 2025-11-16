@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhupendra Patil
+#  Hi, I'm Bhupendra Patil
 
 ### Full Stack Developer | MERN Stack | React.js | Node.js | MongoDB
 
