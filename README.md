@@ -6,8 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupendrarajput1232@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhupendra-portfolio-cyan.vercel.app/)
 
-![Developer GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
-
 ---
 
 ## 🧑‍💻 About Me
@@ -43,8 +41,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?bhupendrapatil123=bhupendrapatil123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?bhupendrapatil123=bhupendrapatil123layout=compact&theme=radical)
+![Bhupendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhupendrapatil123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendrapatil123&layout=compact&theme=radical)
 
 ---
 
